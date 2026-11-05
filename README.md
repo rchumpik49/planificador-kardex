@@ -18,8 +18,8 @@ Local: mantener juntos los cinco archivos en la misma carpeta y abrir `index.htm
 4. Exportar CSV (`movimientos-materiales.csv`, separador `;`, abre en Excel).
 
 ## Publicación
-Repositorio: [PEGAR AQUÍ la URL del repositorio]
-Sitio GitHub Pages: [PEGAR AQUÍ la URL que GitHub muestre]
+Repositorio: https://github.com/rchumpik49/planificador-kardex
+Sitio GitHub Pages: https://rchumpik49.github.io/planificador-kardex/
 
 ## Aportes y ayuda recibida
 Autor: Rony Chumpik Casenta (estudiante). Ayuda: asistente de IA Claude (Anthropic), 05/11/2026, para integrar los fragmentos del recurso S9, adaptar `kardex.js` (código corto MAT-001 y limpieza de mensajes), añadir `novalidate` al formulario de movimientos y preparar pruebas e informe. El detalle de consultas, adaptaciones y comprobaciones está en el PDF entregado en MAXEDRA.
